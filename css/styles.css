@@ -1,0 +1,85 @@
+
+body{
+    padding: 0%;
+    margin: 0%;
+}
+
+.nfs_header{
+    background: linear-gradient(93.18deg, #BE1BE7 0%, #E31C64 103.47%);
+
+    width: 1728px;
+    height: 638px;
+}
+
+.img_logo{
+    margin-top: 50px;
+    width: 232px;
+    top: 42px;
+    left: 60px;
+    gap: 8px;
+}
+
+.nfs_shop{
+font-family: "Rock Salt";
+font-size: 20px;
+margin-top: 100px;
+}
+
+
+.search{
+width: 655px;
+height: 64px;
+top: 36px;
+float: right;
+left: 472px;
+border-radius: 8px;
+border: 1px;
+color: #A0A0A0;
+border-color: #A0A0A0;
+position: absolute;
+}
+
+.srch{
+    width: 655px;
+    height: 64px;
+    top: 36px;
+    float: right;
+    left: 472px;
+    border-radius: 8px;
+    border: 1px;
+    color: #A0A0A0;
+    border-color: #A0A0A0;
+   
+}
+
+.icon_srch{
+top: 8px;
+left: 590px;
+position: absolute;
+padding-right: 200px;
+
+}
+
+#btnconnect{
+    width: 200px;
+    height: 64px;
+    border-radius: 12px;
+    color: white;
+    background: linear-gradient(93.18deg, #BE1BE7 0%, #E31C64 103.47%);
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 16px;
+    float: right;
+    margin-top: 0px;
+    margin-left: 9oopx;
+    margin-bottom: 500px; 
+}
+
+
+.nfs_image2{
+display: flex;
+
+
+
+
+}

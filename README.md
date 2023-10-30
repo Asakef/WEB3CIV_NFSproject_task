@@ -1,2 +1,2 @@
-# WEB3CIV_NFSproject_task
-NFS Task
+# NFS Project Task
+https://asakef.github.io/WEB3CIV_NFSproject_task/
